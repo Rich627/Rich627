@@ -14,7 +14,7 @@ I plan to pursue a master's degree in data science in the US in 2025.
 [![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
 
 [![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
 
 ## Programming Languages
 
