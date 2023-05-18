@@ -30,7 +30,7 @@ I plan to pursue a master's degree in data science in the US at 2025.
 
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=for-the-badge&logo=matplotlib)
 ![SciktLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
