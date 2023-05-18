@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](www.linkedin.com/in/)
 
 <br>
+
 Hi, I'm Rich, I am currently doing bachelor in informatics mathematics,
 I love data science and also interesting the AI field,
 I plan to pursue a master's degree in data science in the US at 2025.
