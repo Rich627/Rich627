@@ -69,24 +69,9 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 <summary>📈 My GitHub Stats</summary>
   <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danghoangnhan&show_icons=true&theme=gotham" alt="DanielDu"  width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghoangnhan&layout=compact" alt="DanielDu"  width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rich627&show_icons=true&theme=gotham" alt="RichLiu"  width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich627&layout=compact" alt="RichLiu"  width="45%"/>
 </p>
 </br>
 
-<!-- <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" /> -->
-</a>
-<!-- <a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" /> -->
-</a>
-<div align="center">
-<div align="center">  
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&show_offline=false&bar_color_cover=true"/>
-  </a>
-</div>
 
-### Show some ❤️ by starring some of the repositories
-
-</div>
