@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](www.linkedin.com/in/)
 
 <br>
-Hi, I'm Rich, an information mathematics student at FGCU, I love data science field and also love the AI ​​field.
+Hi, I'm Rich, an information mathematics student at FGCU, I love data science field and also love the AI field.
 <br>
 
 ![Age](https://img.shields.io/badge/age-21-blue)
@@ -69,8 +69,7 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 <summary>📈 My GitHub Stats</summary>
   <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rich627&show_icons=true&theme=gotham" alt="RichLiu"  width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich627&layout=compact" alt="RichLiu"  width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu"  width="45%"/>
 </p>
 </br>
 
