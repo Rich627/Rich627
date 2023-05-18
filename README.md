@@ -4,9 +4,9 @@
 
 <br>
 
-Hi, I'm Rich, I am currently doing bachelor in informatics mathematics,
-I love data science and also interesting the AI field,
-I plan to pursue a master's degree in data science in the US at 2025.
+Hi, I'm Rich, I am currently doing a bachelor's in informatics mathematics.
+I love data science and I'm also interested in the AI field.
+I plan to pursue a master's degree in data science in the US in 2025.
 
 <br>
 
@@ -14,6 +14,7 @@ I plan to pursue a master's degree in data science in the US at 2025.
 [![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
 
 [![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 
 ## Programming Languages
 
@@ -26,18 +27,18 @@ I plan to pursue a master's degree in data science in the US at 2025.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-## MachineLearning&DeepLearning Framework
+## Machine Learning & Deep Learning Frameworks
 
-![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=for-the-badge&logo=matplotlib)
-![SciktLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Database
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Visualization
 
@@ -45,7 +46,7 @@ I plan to pursue a master's degree in data science in the US at 2025.
 
 ## Cloud
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 
 ## Mobile
 
@@ -58,8 +59,8 @@ I plan to pursue a master's degree in data science in the US at 2025.
 
 ## OS
 
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## IDE
@@ -72,7 +73,7 @@ I plan to pursue a master's degree in data science in the US at 2025.
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook) -->
 
 ### 📢 Find me elsewhere
-  
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/LiuRich/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rich627)
 
@@ -81,9 +82,10 @@ I plan to pursue a master's degree in data science in the US at 2025.
 <hr>
 
 <summary>📈 My GitHub Stats</summary>
-  <p float="left">
+<p float="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu" style="width: 100%; height: auto;" />
 </p>
 </br>
+
 
 
