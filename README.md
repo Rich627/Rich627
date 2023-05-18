@@ -14,46 +14,55 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
-![R]()
-![SQL]()
-![Matlab]()
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 
-## DeepLearning Framework
+## Analytics
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+## MachineLearning&DeepLearning Framework
 
 ![Numpy](https://img.shields.io/badge/-Numpy-55a2e0.svg?style=flat&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib)
-![Tensorflow]()
-
-## Mobile
-
-![Xamarin]()
-
-## VCS
-
-![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github)
+![SciktLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Database
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-## OS
+## Visualization
 
-![MacOS]()
-![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## Cloud
 
-![Azure]
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 
+## Mobile
+
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+
+## VCS
+
+![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github)
+
+## OS
+
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ---
 <!-- ![nghongnhn](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nghongnhn)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook) -->
@@ -69,7 +78,7 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 <summary>📈 My GitHub Stats</summary>
   <p float="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu"  width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu"  width="60%"/>
 </p>
 </br>
 
