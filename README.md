@@ -68,24 +68,22 @@ I plan to pursue a master's degree in data science in the US in 2025.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
----
-<!-- ![nghongnhn](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nghongnhn)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook) -->
 
-### 📢 Find me elsewhere
+## 📢 Find me elsewhere
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/LiuRich/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rich627)
 
-</p>
+---
 
-<hr>
-
-<summary>📈 My GitHub Stats</summary>
+<h2>📈 My GitHub Stats</h2>
 <p float="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu" style="width: 100%; height: auto;" />
 </p>
-</br>
+
+
+
+
 
 
 
