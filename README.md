@@ -14,7 +14,7 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
-![R](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-R-yellow)
 ![SQL](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Matlab](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
