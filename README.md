@@ -4,6 +4,7 @@
 
 <br>
 Hi, I'm Rich, an information mathematics student at FGCU, I love data science field and also love the AI field.
+
 <br>
 
 ![Age](https://img.shields.io/badge/age-21-blue)
@@ -78,7 +79,7 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 <summary>📈 My GitHub Stats</summary>
   <p float="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu"  width="60%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu"  width="45%"/>
 </p>
 </br>
 
