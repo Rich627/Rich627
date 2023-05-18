@@ -13,7 +13,7 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 ## Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-9dd3f5.svg?style=flat&logo=Python)
+![Python]https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 
@@ -24,16 +24,16 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 ## MachineLearning&DeepLearning Framework
 
-![Numpy](https://img.shields.io/badge/-Numpy-55a2e0.svg?style=flat&logo=Numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-5d4296.svg?style=flat&logo=Pandas)
+![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib)
 ![SciktLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Database
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Visualization
 
