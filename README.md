@@ -3,7 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/daniel-du-4734081b8)](www.linkedin.com/in/)
 
 <br>
-Hi, I'm Rich, an information mathematics student at FGCU, I love data science field and also love the AI field.
+Hi, I'm Rich, I am currently doing bachelor in informatics mathematics,
+I love data science and also interesting the AI field,
+I plan to pursue a master's degree in data science in the US at 2025.
 
 <br>
 
@@ -14,7 +16,7 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 ## Programming Languages
 
-![Python]https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 
@@ -50,8 +52,8 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 ## VCS
 
-![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-black.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github)
 
 ## OS
 
