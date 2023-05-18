@@ -79,7 +79,7 @@ Hi, I'm Rich, an information mathematics student at FGCU, I love data science fi
 
 <summary>📈 My GitHub Stats</summary>
   <p float="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu"  width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu" style="width: 100%; height: auto;" />
 </p>
 </br>
 
