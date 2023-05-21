@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://tenor.com/zh-TW/view/emoji-hi-hello-wink-gif-17824774" width="30"/> Hey, nice to see you.</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/rich-liu)](https://www.linkedin.com/in/rich-liu)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rich.liu627@gmail.com)
