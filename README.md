@@ -37,6 +37,7 @@ I plan to pursue a master's degree in data science in the US in 2025.
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=for-the-badge&logo=matplotlib)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pytroch](https://camo.githubusercontent.com/4eeaeb09fc028fcaa6ecfde273bb1bcecd6670eec820234eb2d53bc92d93af83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344332433f7374796c653d666f722d7468652d6261646765266c6f676f3d7079746f726368266c6f676f436f6c6f723d7768697465)
 
 ## Database
 
