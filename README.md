@@ -13,7 +13,7 @@ I plan to pursue a master's degree in data science in the US in 2025.
 
 <br>
 
-![Age](https://img.shields.io/badge/age-21-blue)
+![Age](https://img.shields.io/badge/age-22-blue)
 [![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
 
 [![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
@@ -53,6 +53,7 @@ I plan to pursue a master's degree in data science in the US in 2025.
 
 ## Cloud
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 
 ## Frontend
