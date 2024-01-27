@@ -7,7 +7,7 @@
 
 <br>
 
-Hi, I'm Rich, I am currently doing a bachelor's in informatics mathematics.
+Hi, I'm Rich, I am currently doing a bachelor's in Computer Science and Mathematics.
 I love data science and I'm also interested in the AI field.
 I plan to pursue a master's degree in data science in the US in 2025.
 
