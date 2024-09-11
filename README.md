@@ -7,7 +7,7 @@
 
 <br>
 
-Hi, I'm Rich, I'm currently interning as a Data Science  at Advantech.
+Hi, I'm Rich, I'm currently interning as a Data Scientist  at Advantech.
 I love data science and I'm also interested in the AI field.
 I plan to pursue a master's degree in data science in the US in 2025.
 
