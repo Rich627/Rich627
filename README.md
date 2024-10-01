@@ -7,13 +7,13 @@
 
 <br>
 
-Hi, I'm Rich. I'm currently working as a Solutions Architect at iKala.
+Hi, I'm Rich. I'm currently working as a Solutions Architect at [iKala](https://ikala.ai/zh-tw/).
 
 My professional journey includes:
-- Data Scientist Intern @Advantech
-- Data Engineer Intern @eCloudvalley
-- Cloud Ambassador @Amazon Web Services
-- Quality Assurance Intern @CyberLink
+- Data Scientist Intern @[Advantech](https://www.advantech.com/)
+- Data Engineer Intern @[eCloudvalley](https://www.ecloudvalley.com/)
+- Cloud Ambassador @[Amazon Web Services](https://aws.amazon.com/)
+- Quality Assurance Intern @[CyberLink](https://www.cyberlink.com/)
 
 I'm passionate about cloud technologies, data science, and AI. My diverse experience 
 spans across various aspects of the tech industry, from data engineering and analysis 
@@ -22,7 +22,7 @@ to cloud solutions.
 
 <br>
 
-![Age](https://img.shields.io/badge/age-22-blue)
+![Age](https://img.shields.io/badge/age-23-blue)
 [![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
 
 [![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
