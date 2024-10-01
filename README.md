@@ -7,9 +7,18 @@
 
 <br>
 
-Hi, I'm Rich, I'm currently interning as a Data Scientist  at Advantech.
-I love data science and I'm also interested in the AI field.
-I plan to pursue a master's degree in data science in the US in 2025.
+Hi, I'm Rich. I'm currently working as a Solutions Architect at iKala.
+
+My professional journey includes:
+- Data Scientist Intern @Advantech
+- Data Engineer Intern @eCloudvalley
+- Cloud Ambassador @Amazon Web Services
+- Quality Assurance Intern @CyberLink
+
+I'm passionate about cloud technologies, data science, and AI. My diverse experience 
+spans across various aspects of the tech industry, from data engineering and analysis 
+to cloud solutions.
+
 
 <br>
 
@@ -58,6 +67,7 @@ I plan to pursue a master's degree in data science in the US in 2025.
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
