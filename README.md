@@ -1,113 +1,81 @@
 <h1>Hey, nice to see you.</h1>
 
+### About Me
+I'm currently working as a **Solutions Architect** at [iKala](https://ikala.ai/zh-tw/), specializing in cloud technologies, data science, and AI.
+
+I thrive at the intersection of **cloud computing, machine learning, and data engineering**. With a strong technical foundation, I have experience designing scalable cloud solutions, optimizing machine learning workflows, and building ETL pipelines for large-scale data processing.
+
+![Age](https://img.shields.io/badge/age-23-blue)
+[![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
+[![Learning](https://img.shields.io/badge/Learning%20at-Fu%20Jen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
+
+### Contact me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/rich-liu)](https://www.linkedin.com/in/rich-liu)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rich.liu627@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/LiuRich/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rich627)
-
-<br>
-
-Hi, I'm Rich. I'm currently working as a Solutions Architect at [iKala](https://ikala.ai/zh-tw/).
-
-My professional journey includes:
-- Data Scientist Intern @[Advantech](https://www.advantech.com/)
-- Data Engineer Intern @[eCloudvalley](https://www.ecloudvalley.com/)
-- Cloud Ambassador @[Amazon Web Services](https://aws.amazon.com/)
-- Quality Assurance Intern @[CyberLink](https://www.cyberlink.com/)
-
-I'm passionate about cloud technologies, data science, and AI. My diverse experience 
-spans across various aspects of the tech industry, from data engineering and analysis 
-to cloud solutions.
-
-
-<br>
-
-![Age](https://img.shields.io/badge/age-23-blue)
-[![Living](https://img.shields.io/badge/Living-Taipei%2C%20Taiwan-blue)](https://en.wikipedia.org/wiki/Taipei)
-
-[![Learning](https://img.shields.io/badge/Learning%20at-FuJen%20Catholic%20University-blue)](https://www.fju.edu.tw//)
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
-
-## Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-## Analytics
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-## Machine Learning & Deep Learning Frameworks
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge&logo=langgraph&logoColor=white)
-
-## Database
-
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-
-## Visualization
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-## Cloud
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-1D2939?style=for-the-badge&logo=chainlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-
-## Mobile
-
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-
-## VCS
-
-![Git](https://img.shields.io/badge/-Git-black.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github)
-
-## OS
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## IDE
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-
-## Other
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rich627)
 
 ---
 
-<h2>📈 My GitHub Stats</h2>
-<p float="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=default" alt="RichLiu" style="width: 100%; height: auto;" />
+### My Professional Experience
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" style="margin-top: -20px;">
+
+- **Data Scientist Intern** [Advantech](https://www.advantech.com/)
+  Focused on AI-driven analytics and predictive modeling.
+
+- **Data Engineer Intern** [eCloudvalley](https://www.ecloudvalley.com/)
+  Built scalable ETL pipelines and optimized data storage solutions.
+
+- **Cloud Ambassador** [Amazon Web Services](https://aws.amazon.com/)
+  Hosted cloud workshops and training sessions for the tech community.
+
+- **Quality Assurance Intern** [CyberLink](https://www.cyberlink.com/)
+  Contributed to automation testing and software quality enhancement.
+
+---
+
+## :rocket: Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="Julia" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+</p>
+
+---
+
+## :scroll: Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/9c57cd7c-314a-478f-8b95-78e0f0863915/public_url">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/a2fe3119-46f3-4645-ba43-9cf45ca0e0af/public_url">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Certified Developer – Associate" width="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/975cbab0-458e-4aa8-899a-2b04c3613ca5/public_url">
+    <img src="https://richrose.dev/images/pde-badge.png" alt="Google Cloud Professional Data Engineer" width="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/be301b84-05ac-46cb-a919-d09de14bd5d7/public_url">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" alt="AWS Certified Machine Learning – Specialty" width="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/913255b9-2fd4-4276-98fa-3d519aec45c3/public_url">
+    <img src="https://learn.build-school.com/wp-content/uploads/2023/07/ai900badge.png" alt="Azure AI Fundamentals" width="120"/>
+  </a>
+  <img src="https://miro.medium.com/v2/resize:fit:600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" alt="Azure Data Scientist - Associate" width="120"/>
+  <img src="https://images.credly.com/size/680x680/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" alt="GCP Data Practitioner Associate" width="120"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rich627&show_icons=true&locale=en" alt="rich627" />
 </p>
