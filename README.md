@@ -1,7 +1,7 @@
 <h1>Hey, nice to see you.</h1>
 
 ### About Me
-I'm currently working as a **Solutions Architect** at [iKala](https://ikala.ai/zh-tw/), specializing in cloud technologies, data science, and AI.
+I'm currently working as a **Solutions Architect** at iKala, specializing in cloud technologies, data science, and AI.
 
 I thrive at the intersection of **cloud computing, machine learning, and data engineering**. With a strong technical foundation, I have experience designing scalable cloud solutions, optimizing machine learning workflows, and building ETL pipelines for large-scale data processing.
 
