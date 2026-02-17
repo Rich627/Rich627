@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Rich627">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Rich+Liu;MS+Data+Science+%40+ASU+%7C+AWS+Community+Builder;Looking+for+2026+Summer+Intern+%7C+AI%2FML+%7C+Cloud+%7C+GenAI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Rich+Liu;MS+Data+Science+%40+ASU;AWS+AI+Community+Builder;2026+Summer+Intern+%7C+AI%2FML+%7C+Cloud+%7C+GenAI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -159,20 +159,7 @@ I thrive at the intersection of **cloud computing, machine learning, and data en
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Rich627">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rich627&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rich627's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich627&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rich627&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rich627&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
