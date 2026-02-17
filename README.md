@@ -1,87 +1,114 @@
-<h1>Hey, nice to see you.</h1>
+<p align="center">
+  <a href="https://github.com/Rich627">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Rich+Liu;MS+Data+Science+%40+ASU+%7C+AWS+Community+Builder;Looking+for+2026+Summer+Intern+%7C+AI%2FML+%7C+Cloud+%7C+GenAI" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rich-liu"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:rich.liu627@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Rich627"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.kaggle.com/rich627"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://medium.com/@rich627"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/age-24-blue" alt="Age"/>
+  <a href="https://en.wikipedia.org/wiki/Arizona"><img src="https://img.shields.io/badge/Living-Arizona%2C%20US%20%2F%20Taipei%2C%20TW-blue" alt="Living"/></a>
+  <a href="https://builder.aws.com/community/@richliu"><img src="https://img.shields.io/badge/AWS-AI%20Community%20Builder-orange?logo=amazon-aws" alt="AWS Community Builder"/></a>
+  <a href="https://www.asu.edu/"><img src="https://img.shields.io/badge/M.S.-Data%20Science%20%40%20ASU-maroon" alt="Education"/></a>
+</p>
+
+---
+
+## :rotating_light: Actively Seeking 2026 Summer Internship
+
+> **I'm looking for Summer 2026 internship opportunities in AI/ML Engineering, Cloud Engineering, and Generative AI.**
+>
+> 9 professional cloud certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
+>
+> :mailbox: **Reach me:** [LinkedIn](https://www.linkedin.com/in/rich-liu) | [rich.liu627@gmail.com](mailto:rich.liu627@gmail.com)
+
+---
 
 ### About Me
+
 I'm currently pursuing a **Master of Science in Data Science** at Arizona State University, while working as a **Studio Associate** at ASU's AI Guild - Next Lab and a **Solutions Engineer (Contractor)** at iKala.
 
 I thrive at the intersection of **cloud computing, machine learning, and data engineering**. As an **AWS AI Community Builder**, I specialize in designing scalable cloud solutions, optimizing generative AI workflows, and building production-grade AI/ML systems across AWS, GCP, and Azure platforms.
 
-![Age](https://img.shields.io/badge/age-24-blue)
-[![Living](https://img.shields.io/badge/Living-Arizona%2C%20US%20%2F%20Taipei%2C%20TW-blue)](https://en.wikipedia.org/wiki/Arizona)
-[![AWS Community Builder](https://img.shields.io/badge/AWS-AI%20Community%20Builder-orange?logo=amazon-aws)](https://builder.aws.com/community/@richliu)
-[![Education](https://img.shields.io/badge/M.S.-Data%20Science%20%40%20ASU-maroon)](https://www.asu.edu/)
-
-### Contact me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&url=https://linkedin.com/in/rich-liu)](https://www.linkedin.com/in/rich-liu)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rich.liu627@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rich627)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rich627)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rich627)
-
 ---
 
-### My Professional Experience
+### Professional Experience
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" style="margin-top: -20px;">
 
-- **Studio Associate, AI Guild - Next Lab** @ [Arizona State University]([https://www.asu.edu/](https://nextlab.asu.edu/))
-  *Oct 2024 - Present*  
+- **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/)
+  *Oct 2024 - Present*
   Collaborating on cutting-edge AI research and deploying generative AI applications for academic and industry partners.
 
 - **Solutions Engineer (Contractor), Cloud** @ [iKala](https://www.ikala.com/)
-  *Aug 2024 - Present*  
+  *Aug 2024 - Present*
   Providing technical consulting for cloud architecture design and AI/ML solution implementation on GCP.
 
 - **Solutions Architect, Cloud** @ [iKala](https://www.ikala.com/)
-  *Jan 2024 - Jul 2024*  
+  *Jan 2024 - Jul 2024*
   Designed and implemented cloud architectures for enterprise clients, achieving 30% average cost reduction.
 
 - **Data Scientist Intern, IT-AI** @ [Advantech](https://www.advantech.com/)
-  *Jul 2024 - Sep 2024*  
+  *Jul 2024 - Sep 2024*
   Developed multi-agent systems using LangGraph and built supply chain forecasting models.
 
-- **Backend Engineer & Tech Support Team Lead** @ [Amazon Web Service](https://aws.amazon.com/education/awseducate/)
-  *Mar 2024 - Jun 2024*  
+- **Backend Engineer & Tech Support Team Lead** @ [Amazon Web Services](https://aws.amazon.com/education/awseducate/)
+  *Mar 2024 - Jun 2024*
   Led technical support team and developed serverless microservices for workshop automation.
 
 - **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/)
-  *Feb 2024 - May 2024*  
+  *Feb 2024 - May 2024*
   Developed cloud-based AI/ML solutions and implemented data pipelines on AWS.
 
 - **QA-AI Intern** @ [CyberLink](https://www.cyberlink.com/)
-  *Aug 2023 - Jan 2024*  
+  *Aug 2023 - Jan 2024*
   Performed quality assurance testing for AI-powered video editing features and developed automated testing scripts.
 
 ---
 
-## :rocket: Languages and Tools
+### Open Source Contributions
 
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+<p align="center">
+  <a href="https://github.com/Rich627">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Rich627&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  </a>
 </p>
 
-### Cloud Platforms
+| Project | Contribution | Link |
+|---------|-------------|------|
+| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
+| **aws-educate-tw/aws-educate-tpet-backend** | SQS email sender, DB migrations, API pagination & more | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
+| **aws-educate-tw/aws_educate_taylor_swift_workshop** | Implement Bedrock Flow | [PR #1](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/1) |
+| **aws-educate-tw/aws-educate-sagemaker-workshop** | SageMaker workshop content | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
+
+---
+
+## :rocket: Tech Stack
+
+#### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,r" alt="Languages" />
 </p>
 
-### ML & AI Frameworks
+#### Cloud Platforms
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" alt="Cloud" />
 </p>
 
-### DevOps & Tools
+#### AI / ML Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI/ML" />
+</p>
+
+#### DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,terraform,githubactions" alt="DevOps" />
 </p>
 
 ---
@@ -132,7 +159,20 @@ I thrive at the intersection of **cloud computing, machine learning, and data en
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rich627&theme=dark" alt="rich627" />
+  <a href="https://github.com/Rich627">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rich627&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rich627's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich627&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rich627&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rich627&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
@@ -140,7 +180,11 @@ I thrive at the intersection of **cloud computing, machine learning, and data en
 ### :pushpin: Highlighted Skills
 
 **Generative AI & LLM:** LangChain, LangGraph, RAG, Fine-tuning, Multi-Agent Systems, QLoRA
+
 **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Model Deployment
+
 **Cloud Architecture:** AWS, GCP, Azure, Serverless, Microservices, Cost Optimization
+
 **Data Engineering:** ETL Pipelines, Data Lakes, Data Warehousing, Real-time Processing
+
 **DevOps:** Docker, Kubernetes, CI/CD, Terraform, GitHub Actions, Infrastructure as Code
