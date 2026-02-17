@@ -160,19 +160,19 @@ I thrive at the intersection of **cloud computing, machine learning, and data en
 
 <p align="center">
   <a href="https://github.com/Rich627">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rich627&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rich627's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich627&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+    <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
+    <img height="180em" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rich627">
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rich627&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rich627&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
