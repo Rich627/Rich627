@@ -39,56 +39,6 @@ I thrive at the intersection of **cloud computing, machine learning, and data en
 
 ---
 
-### Professional Experience
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" style="margin-top: -20px;">
-
-- **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/)
-  *Oct 2024 - Present*
-  Collaborating on cutting-edge AI research and deploying generative AI applications for academic and industry partners.
-
-- **Solutions Engineer (Contractor), Cloud** @ [iKala](https://www.ikala.com/)
-  *Aug 2024 - Present*
-  Providing technical consulting for cloud architecture design and AI/ML solution implementation on GCP.
-
-- **Solutions Architect, Cloud** @ [iKala](https://www.ikala.com/)
-  *Jan 2024 - Jul 2024*
-  Designed and implemented cloud architectures for enterprise clients, achieving 30% average cost reduction.
-
-- **Data Scientist Intern, IT-AI** @ [Advantech](https://www.advantech.com/)
-  *Jul 2024 - Sep 2024*
-  Developed multi-agent systems using LangGraph and built supply chain forecasting models.
-
-- **Backend Engineer & Tech Support Team Lead** @ [Amazon Web Services](https://aws.amazon.com/education/awseducate/)
-  *Mar 2024 - Jun 2024*
-  Led technical support team and developed serverless microservices for workshop automation.
-
-- **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/)
-  *Feb 2024 - May 2024*
-  Developed cloud-based AI/ML solutions and implemented data pipelines on AWS.
-
-- **QA-AI Intern** @ [CyberLink](https://www.cyberlink.com/)
-  *Aug 2023 - Jan 2024*
-  Performed quality assurance testing for AI-powered video editing features and developed automated testing scripts.
-
----
-
-### Open Source Contributions
-
-<p align="center">
-  <a href="https://github.com/Rich627">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Rich627&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-  </a>
-</p>
-
-| Project | Contribution | Link |
-|---------|-------------|------|
-| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
-| **aws-educate-tw/aws-educate-tpet-backend** | SQS email sender, DB migrations, API pagination & more | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
-| **aws-educate-tw/aws_educate_taylor_swift_workshop** | Implement Bedrock Flow | [PR #1](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/1) |
-| **aws-educate-tw/aws-educate-sagemaker-workshop** | SageMaker workshop content | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
-
----
-
 ## :rocket: Tech Stack
 
 #### Languages
