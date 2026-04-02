@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/age-24-blue" alt="Age"/>
+  <img src="https://img.shields.io/badge/age-23-blue" alt="Age"/>
   <a href="https://en.wikipedia.org/wiki/Arizona"><img src="https://img.shields.io/badge/Living-Arizona%2C%20US%20%2F%20Taipei%2C%20TW-blue" alt="Living"/></a>
   <a href="https://builder.aws.com/community/@richliu"><img src="https://img.shields.io/badge/AWS-AI%20Community%20Builder-orange?logo=amazon-aws" alt="AWS Community Builder"/></a>
   <a href="https://www.asu.edu/"><img src="https://img.shields.io/badge/M.S.-Data%20Science%20%40%20ASU-maroon" alt="Education"/></a>
@@ -25,7 +25,7 @@
 
 > **I'm looking for Summer 2026 internship opportunities in AI/ML Engineering, Cloud Engineering, and Generative AI.**
 >
-> 9 professional cloud certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
+> 14 professional certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
 >
 > :mailbox: **Reach me:** [LinkedIn](https://www.linkedin.com/in/rich-liu) | [rich.liu627@gmail.com](mailto:rich.liu627@gmail.com)
 
@@ -33,9 +33,69 @@
 
 ### About Me
 
-I'm currently pursuing a **Master of Science in Data Science** at Arizona State University, while working as a **Studio Associate** at ASU's AI Guild - Next Lab and a **Solutions Engineer (Contractor)** at iKala.
+I'm pursuing a **Master of Science in Data Science** at Arizona State University, while working as a **Studio Associate** at ASU's AI Guild - Next Lab.
 
-I thrive at the intersection of **cloud computing, machine learning, and data engineering**. As an **AWS AI Community Builder**, I specialize in designing scalable cloud solutions, optimizing generative AI workflows, and building production-grade AI/ML systems across AWS, GCP, and Azure platforms.
+Previously a **Solutions Architect** at iKala, where I led 60+ customer engagements across multi-cloud environments, delivering impactful PoCs and technical demos. As an **AWS AI Community Builder**, I specialize in designing scalable cloud solutions, optimizing generative AI workflows, and building production-grade AI/ML systems across AWS, GCP, and Azure platforms.
+
+---
+
+### Professional Experience
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" style="margin-top: -20px;">
+
+- **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/)
+  *Oct 2025 - Present*
+  Built and integrated a multi-agent WhatsApp learning assistant on AWS ECS with LangSmith for LLM tracing and evaluation.
+
+- **Solutions Engineer (Contractor), Cloud** @ [iKala](https://www.ikala.com/)
+  *Aug 2025 - Apr 2026*
+  Migrated ETL from EC2 to AWS Glue (40% faster). Worked with U.S.-based team on Webscale IT migration project.
+
+- **Solutions Architect, Cloud** @ [iKala](https://www.ikala.com/)
+  *Oct 2024 - Jul 2025*
+  Deployed secure AWS environments with DR/HA for government clients. Built AWS Landing Zone (Terraform/CAF) across 80+ accounts.
+
+- **Data Scientist Intern, IT-AI** @ [Advantech](https://www.advantech.com/)
+  *Jul 2024 - Sep 2024*
+  90% accuracy demand forecasting (Amazon Forecast). Built multi-agent system with LangGraph reducing R&D resolution time by 30%.
+
+- **AWS Educate Cloud Ambassador** @ [Amazon Web Services](https://aws.amazon.com/education/awseducate/)
+  *Mar 2024 - Jun 2025*
+  Led 7-member team. Hosted workshops for 80+ participants. Delivered YouTube Live training for 400+ with 4.85 avg satisfaction.
+
+- **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/)
+  *Feb 2024 - May 2024*
+  Optimized ETL with AWS Glue & PySpark (20% faster). Built recommendation systems with AWS Personalize (90% precision).
+
+---
+
+### Featured Projects
+
+#### [WhatsApp Learning Chatbot](https://nextlab.asu.edu/whatsapp-learning-chatbot/) — ASU AI Guild, Next Lab
+> AI-powered educational system delivering personalized learning experiences directly within WhatsApp, addressing the global digital divide by enabling learning on low-bandwidth networks.
+
+- Built with **LangGraph** multi-agent orchestration for intent routing, question answering, quiz generation, and progress tracking
+- Evolved from Flask + Ollama + ChromaDB prototype to production **AWS ECS Fargate** microservices architecture
+- Integrated **AWS Lambda**, **API Gateway**, and serverless pipelines for scalable deployment
+- Educators upload content (PDFs, presentations, videos) via a web dashboard; students interact entirely through WhatsApp
+
+**Tech:** Python, Flask, LangGraph, ChromaDB, AWS (Lambda, API Gateway, ECS Fargate), WhatsApp Business API
+
+---
+
+### Open Source Contributions
+
+<p align="center">
+  <a href="https://github.com/Rich627">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Rich627&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  </a>
+</p>
+
+| Project | Contribution | Link |
+|---------|-------------|------|
+| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
+| **aws-educate-tw/aws-educate-tpet-backend** | SQS email sender, DB migrations, API pagination & more | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
+| **aws-educate-tw/aws_educate_taylor_swift_workshop** | Implement Bedrock Flow | [PR #1](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/1) |
+| **aws-educate-tw/aws-educate-sagemaker-workshop** | SageMaker workshop content | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
 
 ---
 
