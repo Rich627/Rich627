@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/age-23-blue" alt="Age"/>
+  <img src="https://img.shields.io/badge/age-24-blue" alt="Age"/>
   <a href="https://en.wikipedia.org/wiki/Arizona"><img src="https://img.shields.io/badge/Living-Arizona%2C%20US%20%2F%20Taipei%2C%20TW-blue" alt="Living"/></a>
   <a href="https://builder.aws.com/community/@richliu"><img src="https://img.shields.io/badge/AWS-AI%20Community%20Builder-orange?logo=amazon-aws" alt="AWS Community Builder"/></a>
   <a href="https://www.asu.edu/"><img src="https://img.shields.io/badge/M.S.-Data%20Science%20%40%20ASU-maroon" alt="Education"/></a>
@@ -25,7 +25,7 @@
 
 > **I'm looking for Summer 2026 internship opportunities in AI/ML Engineering, Cloud Engineering, and Generative AI.**
 >
-> 14 professional certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
+> 9 professional certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
 >
 > :mailbox: **Reach me:** [LinkedIn](https://www.linkedin.com/in/rich-liu) | [rich.liu627@gmail.com](mailto:rich.liu627@gmail.com)
 
@@ -48,11 +48,11 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 
 - **Solutions Engineer (Contractor), Cloud** @ [iKala](https://www.ikala.com/)
   *Aug 2025 - Apr 2026*
-  Migrated ETL from EC2 to AWS Glue (40% faster). Worked with U.S.-based team on Webscale IT migration project.
+  Migrated ETL from EC2 to AWS Glue (40% faster). Deployed AWS Landing Zone with Terraform (CAF) across 80+ accounts.
 
 - **Solutions Architect, Cloud** @ [iKala](https://www.ikala.com/)
   *Oct 2024 - Jul 2025*
-  Deployed secure AWS environments with DR/HA for government clients. Built AWS Landing Zone (Terraform/CAF) across 80+ accounts.
+  Deployed secure AWS environments with DR/HA for government clients. Led presales and GenAI solutioning for 60+ customer engagements using Bedrock, SageMaker, Vertex AI, and AgentSpace.
 
 - **Data Scientist Intern, IT-AI** @ [Advantech](https://www.advantech.com/)
   *Jul 2024 - Sep 2024*
