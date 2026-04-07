@@ -98,7 +98,6 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 | **anthropics/claude-code** | `feat: add WhatsApp channel plugin` | [PR #38105](https://github.com/anthropics/claude-code/pull/38105) |
 | **TensorBlock/awesome-mcp-servers** | Add WhatsApp Claude Plugin to Communication & Messaging | [PR #331](https://github.com/TensorBlock/awesome-mcp-servers/pull/331) |
 | **ComposioHQ/awesome-claude-skills** | Add WhatsApp Channel Plugin for Claude Code | [PR #529](https://github.com/ComposioHQ/awesome-claude-skills/pull/529) |
-| **aws-samples/bedrock-chat** | `fix: update timestamp and qualifier to avoid resource duplication error` | [PR #674](https://github.com/aws-samples/bedrock-chat/pull/674) |
 | **robinebers/openusage** | `feat(gemini): add Gemini provider plugin` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
 | **aws-educate-tw/aws-educate-tpet-backend** | SQS email sender, DB migrations, API pagination & more | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
 | **aws-educate-tw/aws_educate_taylor_swift_workshop** | Implement Bedrock Flow | [PR #1](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/1) |
