@@ -12,6 +12,7 @@ import os
 import re
 import urllib.request
 import urllib.error
+import urllib.parse
 
 GITHUB_USER = "Rich627"
 README_PATH = "README.md"
@@ -56,7 +57,7 @@ def github_api(url: str):
 
 def fetch_prs():
     """Fetch all merged/open PRs by the user in external repos."""
-    query = f"author:{GITHUB_USER} is:pr"
+    query = urllib.parse.quote(f"author:{GITHUB_USER} is:pr")
     url = (
         f"https://api.github.com/search/issues?q={query}"
         f"&sort=created&order=desc&per_page=100"
