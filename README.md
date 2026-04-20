@@ -95,13 +95,23 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 
 | Project | Contribution | Link |
 |---------|-------------|------|
-| **anthropics/claude-code** | `feat: add WhatsApp channel plugin` | [PR #38105](https://github.com/anthropics/claude-code/pull/38105) |
+| **aws-educate-tw/aws-educate-tpet-backend** | Scrum 307 template api variables & more (10 PRs) | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
+| **aws-educate-tw/aws-educate-sagemaker-workshop** | Generate data by Yuna | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
+| **aws-educate-tw/aws_educate_taylor_swift_workshop** | Add User query parameter | [PR #3](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/3) |
+| **ghimiresunil/Top-AI-Tools** | Add TailorMyJob - AI Resume Analysis Platform | [PR #444](https://github.com/ghimiresunil/Top-AI-Tools/pull/444) |
+| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin (oauth-personal, pro/flash usage)` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
+| **rohitg00/awesome-claude-code-toolkit** | Add whatsapp-claude-plugin: WhatsApp channel for Claude Code | [PR #266](https://github.com/rohitg00/awesome-claude-code-toolkit/pull/266) |
 | **TensorBlock/awesome-mcp-servers** | Add WhatsApp Claude Plugin to Communication & Messaging | [PR #331](https://github.com/TensorBlock/awesome-mcp-servers/pull/331) |
+| **anthropics/claude-code** | `feat: add WhatsApp channel plugin` | [PR #38105](https://github.com/anthropics/claude-code/pull/38105) |
+| **aws-samples/bedrock-chat** | `fix: update timestamp and qualifier to avoid resource duplication error` | [PR #674](https://github.com/aws-samples/bedrock-chat/pull/674) |
+| **ccplugins/awesome-claude-code-plugins** | Add whatsapp-claude-plugin to Communication & Integrations | [PR #173](https://github.com/ccplugins/awesome-claude-code-plugins/pull/173) |
+| **Chat2AnyLLM/awesome-claude-plugins** | Add whatsapp-claude-plugin to communication section | [PR #35](https://github.com/Chat2AnyLLM/awesome-claude-plugins/pull/35) |
+| **ComposioHQ/awesome-claude-plugins** | Add whatsapp-claude-plugin to Integrations | [PR #143](https://github.com/ComposioHQ/awesome-claude-plugins/pull/143) |
 | **ComposioHQ/awesome-claude-skills** | Add WhatsApp Channel Plugin for Claude Code | [PR #529](https://github.com/ComposioHQ/awesome-claude-skills/pull/529) |
-| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
-| **aws-educate-tw/aws-educate-tpet-backend** | SQS email sender, DB migrations, API pagination & more | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
-| **aws-educate-tw/aws_educate_taylor_swift_workshop** | Implement Bedrock Flow | [PR #1](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/1) |
-| **aws-educate-tw/aws-educate-sagemaker-workshop** | SageMaker workshop content | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
+| **filipecalegario/awesome-generative-ai** | Add TailorMyJob - AI Resume Analysis Platform | [PR #367](https://github.com/filipecalegario/awesome-generative-ai/pull/367) |
+| **jmanhype/awesome-claude-code** | Add whatsapp-claude-plugin to Plugins & Extensions | [PR #35](https://github.com/jmanhype/awesome-claude-code/pull/35) |
+| **mahseema/awesome-ai-tools** | Add TailorMyJob - AI Resume Analysis Platform | [PR #797](https://github.com/mahseema/awesome-ai-tools/pull/797) |
+| **re50urces/Awesome-AI** | Add TailorMyJob - AI Resume Analysis Platform | [PR #85](https://github.com/re50urces/Awesome-AI/pull/85) |
 
 ---
 
