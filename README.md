@@ -40,7 +40,8 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 ---
 
 ### Professional Experience
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" style="margin-top: -20px;">
+
+<table><tr><td valign="top" width="65%">
 
 - **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/)
   *Oct 2025 - Present*
@@ -65,6 +66,12 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 - **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/)
   *Feb 2024 - May 2024*
   Optimized ETL with AWS Glue & PySpark (20% faster). Built recommendation systems with AWS Personalize (90% precision).
+
+</td><td valign="top" width="35%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
+
+</td></tr></table>
 
 ---
 
@@ -102,8 +109,6 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 | **TensorBlock/awesome-mcp-servers** | Add WhatsApp Claude Plugin to Communication & Messaging | [PR #331](https://github.com/TensorBlock/awesome-mcp-servers/pull/331) |
 
 ---
-
-<br clear="right"/>
 
 ## :rocket: Tech Stack
 
