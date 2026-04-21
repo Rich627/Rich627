@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Rich627">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Rich+Liu;MS+Data+Science+%40+ASU;AWS+AI+Community+Builder;2026+Summer+Intern+%7C+AI%2FML+%7C+Cloud+%7C+GenAI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Rich+Liu;MS+Data+Science+%40+ASU;AWS+AI+Community+Builder;2026+Fall+Intern+%7C+AI%2FML+%7C+Cloud+%7C+GenAI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,11 +21,11 @@
 
 ---
 
-## :rotating_light: Actively Seeking 2026 Summer Internship
+## :rotating_light: Actively Seeking 2026 Fall Internship
 
-> **I'm looking for Summer 2026 internship opportunities in AI/ML Engineering, Cloud Engineering, and Generative AI.**
+> **I'm looking for Fall 2026 internship opportunities in AI/ML Engineering, Cloud Engineering, and Generative AI.**
 >
-> 9 professional certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
+> 10 professional certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
 >
 > :mailbox: **Reach me:** [LinkedIn](https://www.linkedin.com/in/rich-liu) | [rich.liu627@gmail.com](mailto:rich.liu627@gmail.com)
 
@@ -95,23 +95,11 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 
 | Project | Contribution | Link |
 |---------|-------------|------|
-| **aws-educate-tw/aws-educate-tpet-backend** | Scrum 307 template api variables & more (10 PRs) | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
-| **aws-educate-tw/aws-educate-sagemaker-workshop** | Generate data by Yuna | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
-| **aws-educate-tw/aws_educate_taylor_swift_workshop** | Add User query parameter | [PR #3](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/3) |
-| **ghimiresunil/Top-AI-Tools** | Add TailorMyJob - AI Resume Analysis Platform | [PR #444](https://github.com/ghimiresunil/Top-AI-Tools/pull/444) |
-| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin (oauth-personal, pro/flash usage)` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
-| **rohitg00/awesome-claude-code-toolkit** | Add whatsapp-claude-plugin: WhatsApp channel for Claude Code | [PR #266](https://github.com/rohitg00/awesome-claude-code-toolkit/pull/266) |
-| **TensorBlock/awesome-mcp-servers** | Add WhatsApp Claude Plugin to Communication & Messaging | [PR #331](https://github.com/TensorBlock/awesome-mcp-servers/pull/331) |
 | **anthropics/claude-code** | `feat: add WhatsApp channel plugin` | [PR #38105](https://github.com/anthropics/claude-code/pull/38105) |
+| **aws-educate-tw/aws-educate-tpet-backend** | Scrum 307 template api variables & more (10 PRs) | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
 | **aws-samples/bedrock-chat** | `fix: update timestamp and qualifier to avoid resource duplication error` | [PR #674](https://github.com/aws-samples/bedrock-chat/pull/674) |
-| **ccplugins/awesome-claude-code-plugins** | Add whatsapp-claude-plugin to Communication & Integrations | [PR #173](https://github.com/ccplugins/awesome-claude-code-plugins/pull/173) |
-| **Chat2AnyLLM/awesome-claude-plugins** | Add whatsapp-claude-plugin to communication section | [PR #35](https://github.com/Chat2AnyLLM/awesome-claude-plugins/pull/35) |
-| **ComposioHQ/awesome-claude-plugins** | Add whatsapp-claude-plugin to Integrations | [PR #143](https://github.com/ComposioHQ/awesome-claude-plugins/pull/143) |
-| **ComposioHQ/awesome-claude-skills** | Add WhatsApp Channel Plugin for Claude Code | [PR #529](https://github.com/ComposioHQ/awesome-claude-skills/pull/529) |
-| **filipecalegario/awesome-generative-ai** | Add TailorMyJob - AI Resume Analysis Platform | [PR #367](https://github.com/filipecalegario/awesome-generative-ai/pull/367) |
-| **jmanhype/awesome-claude-code** | Add whatsapp-claude-plugin to Plugins & Extensions | [PR #35](https://github.com/jmanhype/awesome-claude-code/pull/35) |
-| **mahseema/awesome-ai-tools** | Add TailorMyJob - AI Resume Analysis Platform | [PR #797](https://github.com/mahseema/awesome-ai-tools/pull/797) |
-| **re50urces/Awesome-AI** | Add TailorMyJob - AI Resume Analysis Platform | [PR #85](https://github.com/re50urces/Awesome-AI/pull/85) |
+| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin (oauth-personal, pro/flash usage)` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
+| **TensorBlock/awesome-mcp-servers** | Add WhatsApp Claude Plugin to Communication & Messaging | [PR #331](https://github.com/TensorBlock/awesome-mcp-servers/pull/331) |
 
 ---
 
@@ -167,7 +155,7 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
   </a>
 </p>
 
-### Amazon Web Services (3)
+### Amazon Web Services (4)
 <p align="left">
   <a href="https://www.credly.com/badges/8e4d14a6-a40e-4f35-8799-8261df8ede31/public_url">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
@@ -177,6 +165,9 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
   </a>
   <a href="https://www.credly.com/badges/be301b84-05ac-46cb-a919-d09de14bd5d7/public_url">
     <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" alt="AWS Certified Machine Learning – Specialty" width="120"/>
+  </a>
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional">
+    <img src="https://images.credly.com/size/680x680/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/image.png" alt="AWS Certified Generative AI Developer – Professional" width="120"/>
   </a>
 </p>
 

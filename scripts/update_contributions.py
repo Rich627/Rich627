@@ -122,7 +122,9 @@ def format_table(repo_map):
         name, info = item
         return (not info["is_merged"], -info["count"], name.lower())
 
-    for repo_full, info in sorted(repo_map.items(), key=sort_key):
+    sorted_items = sorted(repo_map.items(), key=sort_key)[:5]  # Top 5 only
+
+    for repo_full, info in sorted_items:
         count = info["count"]
         title = info["title"]
 
