@@ -112,7 +112,17 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 
 ## :rocket: Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,r,aws,gcp,azure,pytorch,tensorflow,sklearn,docker,kubernetes,git,terraform&perline=14)](https://skillicons.dev)
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,r&perline=10)](https://skillicons.dev)
+
+#### Cloud Platforms
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure&perline=10)](https://skillicons.dev)
+
+#### AI / ML Frameworks
+[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10)](https://skillicons.dev)
+
+#### DevOps & Tools
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git,terraform&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -146,7 +156,7 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
     <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" alt="AWS Certified Machine Learning – Specialty" width="120"/>
   </a>
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional">
-    <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/gdp-badge-resized.bb14507b1f5f569b4437e9061f0f6f6a63e7fc34.png" alt="AWS Certified Generative AI Developer – Professional" width="120"/>
+    <img src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer – Professional" width="120"/>
   </a>
 </p>
 
