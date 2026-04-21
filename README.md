@@ -41,7 +41,7 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 
 ### Professional Experience
 
-<table><tr><td valign="top" width="65%">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 
 - **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/)
   *Oct 2025 - Present*
@@ -66,26 +66,6 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 - **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/)
   *Feb 2024 - May 2024*
   Optimized ETL with AWS Glue & PySpark (20% faster). Built recommendation systems with AWS Personalize (90% precision).
-
-</td><td valign="top" width="35%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
-
-</td></tr></table>
-
----
-
-### Featured Projects
-
-#### [WhatsApp Learning Chatbot](https://nextlab.asu.edu/whatsapp-learning-chatbot/) — ASU AI Guild, Next Lab
-> AI-powered educational system delivering personalized learning experiences directly within WhatsApp, addressing the global digital divide by enabling learning on low-bandwidth networks.
-
-- Built with **LangGraph** multi-agent orchestration for intent routing, question answering, quiz generation, and progress tracking
-- Evolved from Flask + Ollama + ChromaDB prototype to production **AWS ECS Fargate** microservices architecture
-- Integrated **AWS Lambda**, **API Gateway**, and serverless pipelines for scalable deployment
-- Educators upload content (PDFs, presentations, videos) via a web dashboard; students interact entirely through WhatsApp
-
-**Tech:** Python, Flask, LangGraph, ChromaDB, AWS (Lambda, API Gateway, ECS Fargate), WhatsApp Business API
 
 ---
 
