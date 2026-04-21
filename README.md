@@ -97,42 +97,42 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 ### Google Cloud Platform (4)
 <p align="left">
   <a href="https://www.credly.com/badges/84e8e000-b8a2-438e-b59a-97bf38bc6f8c/public_url">
-    <img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="GCP Cloud Architect Professional" width="120"/>
+    <img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="GCP Cloud Architect Professional" height="55"/>
   </a>
   <a href="https://www.credly.com/badges/9c57cd7c-314a-478f-8b95-78e0f0863915/public_url">
-    <img src="https://richrose.dev/images/pde-badge.png" alt="GCP Data Engineer Professional" width="120"/>
+    <img src="https://richrose.dev/images/pde-badge.png" alt="GCP Data Engineer Professional" height="55"/>
   </a>
   <a href="https://www.credly.com/badges/">
-    <img src="https://images.credly.com/size/220x220/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="GCP Machine Learning Engineer Professional" width="120"/>
+    <img src="https://images.credly.com/size/220x220/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="GCP Machine Learning Engineer Professional" height="55"/>
   </a>
   <a href="https://www.credly.com/badges/975cbab0-458e-4aa8-899a-2b04c3613ca5/public_url">
-    <img src="https://miro.medium.com/v2/resize:fit:600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" alt="GCP Data Practitioner Associate" width="120"/>
+    <img src="https://miro.medium.com/v2/resize:fit:600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" alt="GCP Data Practitioner Associate" height="55"/>
   </a>
 </p>
 
 ### Amazon Web Services (4)
 <p align="left">
   <a href="https://www.credly.com/badges/8e4d14a6-a40e-4f35-8799-8261df8ede31/public_url">
-    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" alt="AWS Certified Solutions Architect – Associate" width="120"/>
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" alt="AWS Certified Solutions Architect – Associate" height="55"/>
   </a>
   <a href="https://www.credly.com/badges/a2fe3119-46f3-4645-ba43-9cf45ca0e0af/public_url">
-    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Certified Developer – Associate" width="120"/>
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Certified Developer – Associate" height="55"/>
   </a>
   <a href="https://www.credly.com/badges/be301b84-05ac-46cb-a919-d09de14bd5d7/public_url">
-    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" alt="AWS Certified Machine Learning – Specialty" width="120"/>
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" alt="AWS Certified Machine Learning – Specialty" height="55"/>
   </a>
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional">
-    <img src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer – Professional" width="120"/>
+    <img src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS Certified Generative AI Developer – Professional" height="55"/>
   </a>
 </p>
 
 ### Microsoft Azure (2)
 <p align="left">
   <a href="https://learn.microsoft.com/api/credentials/share/zh-tw/79608093/64D636BAB8B01771?sharingId=CE859A14DF8570D2">
-    <img src="https://miro.medium.com/v2/resize:fit:600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" alt="Azure Data Scientist - Associate" width="120"/>
+    <img src="https://miro.medium.com/v2/resize:fit:600/1*0II-GwnU9Ad4S8IrDGF3fQ.png" alt="Azure Data Scientist - Associate" height="55"/>
   </a>
   <a href="https://www.credly.com/badges/913255b9-2fd4-4276-98fa-3d519aec45c3/public_url">
-    <img src="https://learn.build-school.com/wp-content/uploads/2023/07/ai900badge.png" alt="Azure AI Fundamentals" width="120"/>
+    <img src="https://learn.build-school.com/wp-content/uploads/2023/07/ai900badge.png" alt="Azure AI Fundamentals" height="55"/>
   </a>
 </p>
 
