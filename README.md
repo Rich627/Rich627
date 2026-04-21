@@ -113,16 +113,19 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 ## :rocket: Tech Stack
 
 #### Languages
-[![Languages](https://skillicons.dev/icons?i=python,c,cpp,r&perline=10)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,r&perline=10" height="55" /></a>
 
 #### Cloud Platforms
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure&perline=10)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=10" height="55" /></a>
 
 #### AI / ML Frameworks
-[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10" height="55" /></a>
+
+#### Web Frameworks
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs&perline=10" height="55" /></a>
 
 #### DevOps & Tools
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git,terraform&perline=10)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,terraform&perline=10" height="55" /></a>
 
 ---
 
