@@ -43,29 +43,12 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 
-- **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/)
-  *Oct 2025 - Present*
-  Built and integrated a multi-agent WhatsApp learning assistant on AWS ECS with LangSmith for LLM tracing and evaluation.
-
-- **Solutions Engineer (Contractor), Cloud** @ [iKala](https://www.ikala.com/)
-  *Aug 2025 - Apr 2026*
-  Migrated ETL from EC2 to AWS Glue (40% faster). Deployed AWS Landing Zone with Terraform (CAF) across 80+ accounts.
-
-- **Solutions Architect, Cloud** @ [iKala](https://www.ikala.com/)
-  *Oct 2024 - Jul 2025*
-  Deployed secure AWS environments with DR/HA for government clients. Led presales and GenAI solutioning for 60+ customer engagements using Bedrock, SageMaker, Vertex AI, and AgentSpace.
-
-- **Data Scientist Intern, IT-AI** @ [Advantech](https://www.advantech.com/)
-  *Jul 2024 - Sep 2024*
-  90% accuracy demand forecasting (Amazon Forecast). Built multi-agent system with LangGraph reducing R&D resolution time by 30%.
-
-- **AWS Educate Cloud Ambassador** @ [Amazon Web Services](https://aws.amazon.com/education/awseducate/)
-  *Mar 2024 - Jun 2025*
-  Led 7-member team. Hosted workshops for 80+ participants. Delivered YouTube Live training for 400+ with 4.85 avg satisfaction.
-
-- **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/)
-  *Feb 2024 - May 2024*
-  Optimized ETL with AWS Glue & PySpark (20% faster). Built recommendation systems with AWS Personalize (90% precision).
+- **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/) · *Oct 2025 - Present*
+- **Solutions Engineer (Contractor), Cloud** @ [iKala](https://www.ikala.com/) · *Aug 2025 - Apr 2026*
+- **Solutions Architect, Cloud** @ [iKala](https://www.ikala.com/) · *Oct 2024 - Jul 2025*
+- **Data Scientist Intern, IT-AI** @ [Advantech](https://www.advantech.com/) · *Jul 2024 - Sep 2024*
+- **AWS Educate Cloud Ambassador** @ [Amazon Web Services](https://aws.amazon.com/education/awseducate/) · *Mar 2024 - Jun 2025*
+- **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/) · *Feb 2024 - May 2024*
 
 ---
 
