@@ -65,11 +65,11 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 
 | Project | Contribution | Link |
 |---------|-------------|------|
-| **anthropics/claude-code** | `feat: add WhatsApp channel plugin` | [PR #38105](https://github.com/anthropics/claude-code/pull/38105) |
 | **aws-educate-tw/aws-educate-tpet-backend** | Scrum 307 template api variables & more (10 PRs) | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
-| **aws-samples/bedrock-chat** | `fix: update timestamp and qualifier to avoid resource duplication error` | [PR #674](https://github.com/aws-samples/bedrock-chat/pull/674) |
+| **aws-educate-tw/aws-educate-sagemaker-workshop** | Generate data by Yuna | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
+| **aws-educate-tw/aws_educate_taylor_swift_workshop** | Add User query parameter | [PR #3](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/3) |
 | **robinebers/openusage** | `feat(gemini): add Gemini provider plugin (oauth-personal, pro/flash usage)` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
-| **TensorBlock/awesome-mcp-servers** | Add WhatsApp Claude Plugin to Communication & Messaging | [PR #331](https://github.com/TensorBlock/awesome-mcp-servers/pull/331) |
+| **ghimiresunil/Top-AI-Tools** | Add TailorMyJob - AI Resume Analysis Platform | [PR #444](https://github.com/ghimiresunil/Top-AI-Tools/pull/444) |
 
 ---
 
