@@ -68,7 +68,7 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 | **aws-educate-tw/aws-educate-tpet-backend** | Scrum 307 template api variables & more (10 PRs) | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
 | **aws-educate-tw/aws-educate-sagemaker-workshop** | Generate data by Yuna | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
 | **aws-educate-tw/aws_educate_taylor_swift_workshop** | Add User query parameter | [PR #3](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/3) |
-| **robinebers/openusage** | `feat(gemini): add Gemini provider plugin (oauth-personal, pro/flash usage)` | [PR #189](https://github.com/robinebers/openusage/pull/189) |
+| **robinebers/openusage** | `fix(gemini): refresh OAuth tokens on Homebrew-installed gemini-cli` | [PR #401](https://github.com/robinebers/openusage/pull/401) |
 | **ghimiresunil/Top-AI-Tools** | Add TailorMyJob - AI Resume Analysis Platform | [PR #444](https://github.com/ghimiresunil/Top-AI-Tools/pull/444) |
 
 ---
