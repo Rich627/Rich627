@@ -35,7 +35,7 @@
 
 I'm pursuing a **Master of Science in Data Science** at Arizona State University, while working as a **Studio Associate** at ASU's AI Guild - Next Lab.
 
-Previously a **Solutions Architect** at iKala, where I led 60+ customer engagements across multi-cloud environments, delivering impactful PoCs and technical demos. As an **AWS AI Community Builder**, I specialize in designing scalable cloud solutions, optimizing generative AI workflows, and building production-grade AI/ML systems across AWS, GCP, and Azure platforms.
+Concurrently, I serve as a **Solutions Architect (AI/ML)** at iKala, where I lead 60+ customer engagements across multi-cloud environments — delivering impactful PoCs, advising on production RAG design, and driving cloud migrations and Infrastructure-as-Code automation. As an **AWS AI Community Builder**, I specialize in designing scalable cloud solutions, optimizing generative AI workflows, and building production-grade AI/ML systems across AWS, GCP, and Azure platforms.
 
 ---
 
@@ -44,8 +44,7 @@ Previously a **Solutions Architect** at iKala, where I led 60+ customer engageme
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 
 - **Studio Associate, AI Guild - Next Lab** @ [Arizona State University](https://nextlab.asu.edu/) · *Oct 2025 - Present*
-- **Solutions Engineer (Contractor), Cloud** @ [iKala](https://www.ikala.com/) · *Aug 2025 - Apr 2026*
-- **Solutions Architect, Cloud** @ [iKala](https://www.ikala.com/) · *Oct 2024 - Jul 2025*
+- **Solutions Architect (AI/ML)** @ [iKala](https://www.ikala.com/) · *Oct 2024 - Present*
 - **Data Scientist Intern, IT-AI** @ [Advantech](https://www.advantech.com/) · *Jul 2024 - Sep 2024*
 - **AWS Educate Cloud Ambassador** @ [Amazon Web Services](https://aws.amazon.com/education/awseducate/) · *Mar 2024 - Jun 2025*
 - **Cloud Developer Intern, AI&Data** @ [eCloudvalley](https://www.ecloudvalley.com/) · *Feb 2024 - May 2024*
