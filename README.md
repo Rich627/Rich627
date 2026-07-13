@@ -66,9 +66,9 @@ Concurrently, I serve as a **Solutions Architect (AI/ML)** at iKala, where I lea
 |---------|-------------|------|
 | **tmj-studio/CardWise** | test: gated CloudKit schema-init utility & more (20 PRs) | [PRs](https://github.com/tmj-studio/CardWise/pulls?q=is%3Apr+author%3ARich627) |
 | **aws-educate-tw/aws-educate-tpet-backend** | Scrum 307 template api variables & more (10 PRs) | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
+| **robinebers/openusage** | `fix(gemini): refresh OAuth tokens on Homebrew-installed gemini-cli` | [PR #401](https://github.com/robinebers/openusage/pull/401) |
 | **aws-educate-tw/aws-educate-sagemaker-workshop** | Generate data by Yuna | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
 | **aws-educate-tw/aws_educate_taylor_swift_workshop** | Add User query parameter | [PR #3](https://github.com/aws-educate-tw/aws_educate_taylor_swift_workshop/pull/3) |
-| **robinebers/openusage** | `fix(gemini): refresh OAuth tokens on Homebrew-installed gemini-cli` | [PR #401](https://github.com/robinebers/openusage/pull/401) |
 
 ---
 
