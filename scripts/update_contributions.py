@@ -26,6 +26,7 @@ EXCLUDE_REPOS = {
     "iKala-SA-TAM-unofficial/bedrock-claude-chat-old",
     "tmj-studio/tailormyjob_private",
     "punkpeye/awesome-mcp-servers",  # duplicate, closed
+    "aws-educate-tw/aws_educate_taylor_swift_workshop",  # removed from table
 }
 
 # Repos to always pin at top (in order), even if API misses them
