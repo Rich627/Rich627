@@ -116,25 +116,6 @@ Concurrently, I serve as a **Solutions Architect (AI/ML)** at iKala, where I lea
 
 ---
 
-## :chart_with_upwards_trend: GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Rich627">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rich627&theme=github_dark" alt="GitHub Profile Details"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rich627">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rich627&theme=github_dark" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Rich627">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rich627&theme=github_dark" alt="Most Commit Language"/>
-  </a>
-</p>
-
----
-
 ### :pushpin: Highlighted Skills
 
 **Generative AI & LLM:** LangChain, LangGraph, RAG, Fine-tuning, Multi-Agent Systems, QLoRA
