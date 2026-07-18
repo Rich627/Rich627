@@ -51,26 +51,6 @@ Concurrently, I serve as a **Solutions Architect (AI/ML)** at iKala, where I lea
 
 ---
 
-### Open Source Contributions
-
-<p align="center">
-  <a href="https://github.com/Rich627">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rich627&theme=github_dark" alt="Top Languages by Repo"/>
-  </a>
-  <a href="https://github.com/Rich627">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rich627&theme=github_dark&utcOffset=8" alt="Contribution Time"/>
-  </a>
-</p>
-
-| Project | Contribution | Link |
-|---------|-------------|------|
-| **tmj-studio/CardWise** | test: gated CloudKit schema-init utility & more (20 PRs) | [PRs](https://github.com/tmj-studio/CardWise/pulls?q=is%3Apr+author%3ARich627) |
-| **aws-educate-tw/aws-educate-tpet-backend** | Scrum 307 template api variables & more (10 PRs) | [PRs](https://github.com/aws-educate-tw/aws-educate-tpet-backend/pulls?q=is%3Apr+author%3ARich627) |
-| **robinebers/openusage** | `fix(gemini): refresh OAuth tokens on Homebrew-installed gemini-cli` | [PR #401](https://github.com/robinebers/openusage/pull/401) |
-| **aws-educate-tw/aws-educate-sagemaker-workshop** | Generate data by Yuna | [PR #2](https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/pull/2) |
-
----
-
 ## :rocket: Tech Stack
 
 #### Languages
