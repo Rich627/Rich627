@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/age-24-blue" alt="Age"/>
+  <img src="https://img.shields.io/badge/age-25-blue" alt="Age"/>
   <a href="https://en.wikipedia.org/wiki/Arizona"><img src="https://img.shields.io/badge/Living-Arizona%2C%20US%20%2F%20Taipei%2C%20TW-blue" alt="Living"/></a>
   <a href="https://builder.aws.com/community/@richliu"><img src="https://img.shields.io/badge/AWS-AI%20Community%20Builder-orange?logo=amazon-aws" alt="AWS Community Builder"/></a>
   <a href="https://www.asu.edu/"><img src="https://img.shields.io/badge/M.S.-Data%20Science%20%40%20ASU-maroon" alt="Education"/></a>
@@ -21,9 +21,9 @@
 
 ---
 
-## :rotating_light: Actively Seeking 2026 Fall Internship
+## :rotating_light: Actively Seeking 2027 New Grad 
 
-> **I'm looking for Fall 2026 internship opportunities in AI/ML Engineering, Cloud Engineering, and Generative AI.**
+> **I'm looking for 2027 new grad opportunities in AI/ML Engineering, Cloud Engineering, and Generative AI.**
 >
 > 10 professional certifications (AWS / GCP / Azure) | 4+ industry internships | Open source contributor
 >
